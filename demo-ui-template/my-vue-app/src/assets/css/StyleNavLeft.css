@@ -1,0 +1,29 @@
+﻿
+.navleft_sub {
+	FONT-WEIGHT: bold; font-size: 8pt; COLOR: #0066CC; FONT-FAMILY: Geneva, Arial, Helvetica, san-serif; TEXT-DECORATION: none
+}
+.navleft_sub_hover {
+	FONT-WEIGHT: bold; font-size: 8pt; COLOR: #000000; FONT-FAMILY: Geneva, Arial, Helvetica, san-serif; TEXT-DECORATION: none
+}
+.navleft_sub_selected
+{
+	font-weight: bold;
+	padding: 3px;
+	color: #111111;
+	border: solid 1px #000000;
+	background-color: #ffccff;
+	font-family: Geneva, Arial, Helvetica, san-serif;
+	text-decoration: none;
+}
+.navleft_top {
+	FONT-WEIGHT: bold; font-size: 8pt; COLOR: #0066CC; FONT-FAMILY: Geneva, Arial, Helvetica, san-serif
+}
+A.navleft_top:link {
+	FONT-WEIGHT: bold; font-size: 8pt; COLOR: #0066CC; FONT-FAMILY: Geneva, Arial, Helvetica, san-serif; TEXT-DECORATION: none
+}
+A.navleft_top:visited {
+	FONT-WEIGHT: bold; font-size: 8pt; COLOR: #0066CC; FONT-FAMILY: Geneva, Arial, Helvetica, san-serif; TEXT-DECORATION: none
+}
+A.navleft_top:hover {
+	FONT-WEIGHT: bold; font-size: 8pt; COLOR: #000000; FONT-FAMILY: Geneva, Arial, Helvetica, san-serif; TEXT-DECORATION: none
+}
